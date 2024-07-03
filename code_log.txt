@@ -1,0 +1,6 @@
+2024-44-07/02/24 16:44:37:Preliminaries complete. Initiating ETL process
+2024-44-07/02/24 16:44:39:Data extraction complete. Initiating Transformation process
+2024-44-07/02/24 16:44:39:Data transformation complete. Initiating Loading process
+2024-44-07/02/24 16:44:39:Data saved to CSV file
+2024-44-07/02/24 16:44:39:Data loaded to Database as a table, Executing queries
+2024-44-07/02/24 16:44:39:Process Complete
